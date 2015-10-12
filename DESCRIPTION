@@ -1,9 +1,9 @@
 Package: subspace
 Title: Interface to OpenSubspace
-Version: 1.0.3
+Version: 1.0.4
 Date: 2015-09-30
 Authors@R: c( person("Marwan","Hassani",role=c("aut","cre"),email="rsubspace@cs.rwth-aachen.de"),
-             person("Matthias","Hansen",role=c("aut"),email="matthias.hansen@rwth-aachen.de"),
+             person("Matthias","Hansen",role=c("aut")),
              person("Emmanuel","Müller",role="ctb"),
              person("Ira","Assent",role="ctb"),
              person("Stephan","Günnemann",role="ctb"),
@@ -21,7 +21,7 @@ SystemRequirements: Java (>= 6)
 Encoding: UTF-8
 License: GPL-2
 NeedsCompilation: no
-Packaged: 2015-10-03 10:40:29 UTC; mth
+Packaged: 2015-10-12 13:16:59 UTC; mth
 Author: Marwan Hassani [aut, cre],
   Matthias Hansen [aut],
   Emmanuel Müller [ctb],
@@ -32,4 +32,4 @@ Author: Marwan Hassani [aut, cre],
   University of Waikato [ctb, cph]
 Maintainer: Marwan Hassani <rsubspace@cs.rwth-aachen.de>
 Repository: CRAN
-Date/Publication: 2015-10-03 14:49:23
+Date/Publication: 2015-10-12 17:03:17

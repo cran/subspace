@@ -1,11 +1,11 @@
-5207617c0ec871a4291fd45fc1fcca80 *DESCRIPTION
+9f77ea8a63db02c84efaa25c59cc194d *DESCRIPTION
 b19106de9afa7e0d8dcfd771177efa90 *NAMESPACE
 7f0efc54d6993f5efced1b03982f24fa *R/clique.R
 620a0339c528a0cf1f7e85fa8f8664ff *R/dataset_doc.R
 31d7a0b6fceeff1ce8cf96bc9476ee82 *R/file_io.R
 8629919fe784171d2634ea6ca52d2be9 *R/fires.R
 e9384f50d5d0676257e8154c5d404013 *R/java_object_from_data.R
-25c61b36038e558215e9ba56b53ec73a *R/onLoad.R
+2d06735d302585e1f8476f9dbb7af354 *R/onLoad.R
 60160631a40efd61ae42ac0de246b24f *R/p3c.R
 ee35ee68480ba5df0653e89cab34f0a8 *R/package_doc.R
 4d200671d3db6169eeedbd59188f2b70 *R/plot.R
